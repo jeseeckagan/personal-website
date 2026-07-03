@@ -34,7 +34,7 @@ It includes all required pages and is hosted using **GitHub Pages**.
 
 ## 📤 Deployment
 Uploaded on GitHub Pages:  
-https://FaiToinee.github.io/personal-website/
+https://jeseeckagan.github.io/personal-website/
 
 ---
 
