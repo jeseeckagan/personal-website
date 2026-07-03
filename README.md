@@ -1,16 +1,17 @@
 # Personal Portfolio Website
 
-This is my personal website created for my **Final Project**.  
+This is my personal website, developed to showcase my **Portfolio**.  
 It includes all required pages and is hosted using **GitHub Pages**.
+
 
 ---
 
 ## 📌 Pages Included
 - Home
 - About Me
-- Portfolio (3 Projects)
+- Portfolio (11 Projects)
 - Experience
-- Achievements (Optional Page)
+- Achievements 
 - Contact
 
 ---
